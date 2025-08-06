@@ -1,1 +1,1 @@
-# TerraBrew
+# TerraBrew (Custom Terraform Provider)
